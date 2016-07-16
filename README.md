@@ -8,9 +8,9 @@ Objects are ordered alphabetically based on country name.
 
 ```
 {
-    "airportCode": "ICN",
-    "airportName": "New Incheon International Airport",
-    "countryCode": "KR",
-    "countryName": "South Korea"
-  }
+  "airportCode": "ICN",
+  "airportName": "New Incheon International Airport",
+  "countryCode": "KR",
+  "countryName": "South Korea"
+}
 ```
